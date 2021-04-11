@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Tahoma, sans-serif, Arial, Helvetica;
+}
+
+body {
+  background-color: #e7ebf0;
+}
+
+a {
+  color: #fff;
+}
+
+#container {
+  width: 100%;
+  height: auto;
+}
+
+.conteudo {
+  width: 100%;
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  width: 100%;
+  height: 225px;
+  background-color: #5682a3;
+}
+
+#containerLogin {
+  width: 410px;
+  height: 400px;
+  margin-top: -115px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#parteNext {
+  width: 410px;
+  height: 60px;
+  background-color: #5682a3;
+}
+
+.positionLinks {
+  width: 50%;
+  height: 60px;
+  float: left;
+  color: #fff;
+}
+
+#iconTelegram {
+  width: 150px;
+  height: 60px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 100;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+#iconTelegram span {
+  width: 75px;
+  height: 15px;
+  float: left;
+  font-weight: 500;
+  text-align: center;
+  padding-top: 2px;
+}
+
+#imagemLogo {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-right: 10px;
+  border-radius: 100px;
+  padding-bottom: 2px;
+  background-color: #456f92;
+}
+
+#imagemLogo img {
+  width: 14px;
+  height: 14px;
+  margin-top: 9px;
+  margin-left: 7px;
+}
+
+.positionLinks h1 {
+  font-size: 13px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 120px;
+}
+
+#sectionLogin {
+  width: 410px;
+  height: 339.5px;
+  border-radius: 1%;
+  background-color: #fff;
+  border: solid 1px #d6dde6;
+}
+
+/*SEÇÃO DO FORM*/
+
+#formatacionForm {
+  padding: 35px;
+}
+
+#loginSign {
+  width: 90px;
+  height: 45px;
+  color: #222;
+  font-size: 15px;
+  padding-top: 5px;
+  text-align: center;
+  font-family: verdana;
+}
+
+#description {
+  color: #999;
+  width: 279px;
+  font-size: 12.5px;
+  font-weight: 600;
+  padding-left: 18px;
+}
+
+/*SEÇÃO SAIBA MAIS*/
+#boasVindas {
+  width: 350px;
+  height: 90px;
+  color: #84a2bc;
+  line-height: 2;
+  font-weight: 400;
+  font-size: 13.1px;
+  padding-top: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#boasVindas a {
+  color: #84a2bc;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: verdana;
+  text-decoration: none;
+}
+
+#boasVindas a:hover {
+  text-decoration: underline;
+}
