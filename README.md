@@ -8,6 +8,5 @@ Website chosen: **Telegram login page.**
 
 HTML, CSS & JS only
 
-## Demo (Static Image)
 
 ![Telegram Clone](img/telegram-clone.png)
